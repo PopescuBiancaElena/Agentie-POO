@@ -1,6 +1,6 @@
-# AGENTIE DE TURISM
+## AGENTIE DE TURISM
 
-## Turistii au o anumita caracteristica: barbati/femei, grupa de varsta, activitati preferate.
+### Turistii au o anumita caracteristica: barbati/femei, grupa de varsta, activitati preferate.
 ## Destinatiile turistice (Amsterdam, Thassos, etc.) permit o serie de activitati: plaja, mers pe munte, vizitat muzee, etc.. Unuele dintre ele pot fi potrivite doar pentru anumite sexe, grupe de varsta sau existenta unui autovehicul personal. O activitate dureaza un numar de zile, iar aceasta poate fi de grup. Pentru a ajunge la o destinatie se foloseste fie transportul cu avionul fie cel individual cu masina.
 ## Sa sa aleaga pentru un grup turistic(cu caracteristici si preferinte variate) o destinatie potrivita si sa se realizeze un plan de activitati(o lista) pe zile (maxim 14) astfel incat tot grupul sa fie satisfacut.
 
